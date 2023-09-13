@@ -25,6 +25,7 @@ body {
     font-size: 28px;
     font-weight: 900;
     color:#F9FAF8;
+    text-decoration: underline;
 }
 .title {
     font-size: 48px;
@@ -42,7 +43,7 @@ body {
 }
 .links {
     display: flex;
-    gap: 30px;
+    gap: 50px;
 }
 .top-cont {
     display: flex;
