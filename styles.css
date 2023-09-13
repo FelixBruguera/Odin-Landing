@@ -119,3 +119,36 @@ body {
     color: black;
     text-align: right;
 }
+.cta {
+    background-color: white;
+    padding: 100px 200px;
+}
+.cta-section {
+    background-color: #3882F6;
+    padding: 40px 100px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cta-text {
+    display: flex;
+    flex-direction: column;
+}
+.cta-title {
+    font-size: 28px;
+    font-weight: 600;
+    color: #F9FAF8;
+}
+.cta-desc {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.cta-buttom {
+    background-color: transparent;
+    border: 1px solid #F9FAF8;
+    border-radius: 12px;
+    color: #F9FAF8;
+    font-weight: 600;
+    padding: 5px 30px;
+    font-size: 16px;
+}
